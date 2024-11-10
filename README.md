@@ -24,3 +24,11 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/yourusername/gym-management-app.git
 cd gym-management-app
+```
+### 2. Navigate to the project directory:
+```bash
+cd GymSync
+```
+
+### 3. Install dependencies for both frontend and backend:
+
