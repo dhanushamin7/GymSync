@@ -29,7 +29,6 @@ cd gym-management-app
 ```bash
 cd GymSync
 ```
-
 ### 3. Install dependencies for both frontend and backend:
 - For the frontend (in the client directory):
 ```bash
@@ -40,5 +39,37 @@ npm install
 ```bash
 cd server
 npm install
+```
+###  4. Run the application:
+- For frontend (in the client directory):
+```bash
+npm start
+```
+- For backend (in the root directory):
+```bash
+nodemon
+```
+### 5. Access the Application
+- Open your browser and go to http://localhost:3000.
 
+## 🙌 Contributing
+We welcome contributions! If you want to report issues, request features, or contribute code, please follow these steps:
+- Fork the repository.
+- Create a new branch for your feature:
+```bash
+git checkout -b feature/AmazingFeature
+```
+- Commit your changes:
+```bash
+git commit -m 'Add AmazingFeature'
+```
+- Push to your branch:
+```bash
+git push origin feature/AmazingFeature
+```
 
+### Key Enhancements:
+1. **Consistent Structure**: Sections are neatly divided for easy readability.
+2. **Markdown Icons and Highlights**: Added icons for an engaging appearance.
+3. **Direct Commands**: Provided specific command snippets for better clarity.
+4. **User-Friendly Tone**: Phrased to make setup and contribution easier for collaborators.
